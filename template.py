@@ -2,7 +2,7 @@ import numpy as np
 
 total_1 = 0
 total_2 = 0
-__path__ = './J1/input.txt'
+__path__ = './J/input.txt'
 
 with open(__path__, 'r') as file:
     data = file.read().splitlines()
